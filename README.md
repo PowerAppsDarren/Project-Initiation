@@ -1,2 +1,6 @@
-# Project-Initiation
-Everything you should do 
+# README
+
+- Hello!
+
+## Steps to Initiating any Project
+
