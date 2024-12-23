@@ -4,4 +4,4 @@
 
 ## Steps to Initiating any Project
 
-1. [[Step-01-Choose-Project]]
+1. [Step-01-Choose-Project](Step-01-Choose-Project.md)
