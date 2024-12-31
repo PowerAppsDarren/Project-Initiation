@@ -1,7 +1,4 @@
 # README
 
-- Hello!
-
-## Steps to Initiating any Project
-
-1. [Step-01-Choose-Project](Step-01-Choose-Project.md)
+- [Steps to Initiating this Project!](/Template-Instructions/Template-Instructions.md)
+    - [Choose Project](/Template-Instructions/Choose-Project.md)
